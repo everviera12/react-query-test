@@ -1,7 +1,5 @@
 # 🐉 Dragon Ball API Consumer with React Query
 
-![Project Screenshot](./screenshot.png) <!-- Añade tu imagen aquí -->
-
 ![React](https://img.shields.io/badge/React-19.1.0-%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.8.3-%233178C6)
 ![React Query](https://img.shields.io/badge/React_Query-5.79.0-%23FF4154)
